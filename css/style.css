@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif
+} 
+body{
+    background-color: rgb(245, 216, 245);
+} 
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.withh{
+    height: 800px; 
+
+}
+.row{
+    display: flex; 
+    margin-top: 50px;
+}
+.img{
+    height: 520px; 
+    width: 400px;
+    box-shadow: 10px 20px 30px 1px rgb(134, 127, 127);
+    box-shadow:  -10px 30px 40px 5px rgb(119, 98, 98);
+}
+.img-box{
+     
+    margin-top: -20px; 
+    
+
+}
+.hei{
+    margin-top: 120px;
+    color: rgb(218, 89, 218);
+   
+
+}
+
+.icons{
+    background-color: rgb(237, 241, 241);
+    width: 50px;
+    padding: 2px;  
+    padding-left: 12px;
+}
+.heii{
+    margin-top: 1px; 
+    margin-left: px;
+    color: rgb(218, 89, 218);
+}
+.right{
+ margin-left: 2px;
+}
+.left{
+    margin-left: 3px;
+    width: 100px; 
+    height: 50px; 
+    margin-right: 20px;
+
+}
+.top{
+margin-top: 10px;
+margin-left: 1px;
+}
+.bottom{
+padding-right: 30px;
+}
+.bot{
+    margin-right: 30px;
+}
+.top-bottom{
+    margin-left: 3px;
+
+}
+.text-box{
+    background-color: beige; 
+ height: 500px;
+ width: 600px; 
+ margin-left: 9px;
+ box-shadow:  -10px 1px 10px rgb(119, 98, 98);
+}
+.para{
+    margin-left: 20px; 
+    line-height: 20px;
+    color: rgb(99, 72, 72); 
+    padding-top: 20px;
+}
+.box{
+    display: flex;
+    margin-top: 100px;
+}
+
+.first-box{
+  width: 250px; 
+  margin-left: 20px; 
+  margin-top: -80px;
+}
+.second-box{
+    width: 200px; 
+    margin-left: 70px;
+    margin-top: -80px;
+}
+.box-para1{
+ margin-top: 10px; 
+ color: rgb(99, 72, 72);
+}
+.box-para2{
+    color: rgb(99, 72, 72);
+    margin-top: 10px;
+    
+}
+.heading{
+    padding-top: 50px; 
+    padding-left: 20px ;
+}
